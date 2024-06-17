@@ -1,6 +1,6 @@
-# Project Name
+# Fleet Manager
 
-Brief description of your project.
+Tracks the locations of various trucks in the Greater Toronto Area.
 
 ## Table of Contents
 
@@ -9,6 +9,7 @@ Brief description of your project.
 - [Running the Application](#running-the-application)
 - [Usage](#usage)
 - [Shutting Down the Application](#shutting-down-the-application)
+- [Learn More](#learn-more)
 
 ## Introduction
 
@@ -91,3 +92,9 @@ To shut down the application, navigate to the ```Fleet-Manager``` directory and 
 ```bash
 bin/fleet-manager-shutdown.sh
 ```
+
+## Learn More
+
+To find out how I created this application, visit my Medium blog at the link below:
+
+(coming soon...)
