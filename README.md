@@ -95,6 +95,4 @@ bin/fleet-manager-shutdown.sh
 
 ## Learn More
 
-To find out how I created this application, visit my Medium blog at the link below:
-
-(coming soon...)
+To find out how I created this application, please view the post on my Medium blog [here](#coming-soon).
