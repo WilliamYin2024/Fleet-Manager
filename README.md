@@ -95,4 +95,4 @@ bin/fleet-manager-shutdown.sh
 
 ## Learn More
 
-To find out how I created this application, please view the post on my Medium blog [here](#coming-soon).
+To find out how I created this application, please view the post on my Medium blog [here](https://medium.com/@william.yin.2024/using-apache-kafka-spring-boot-and-react-to-create-an-easily-scalable-fleet-manager-application-c9c5cfc374e0).
